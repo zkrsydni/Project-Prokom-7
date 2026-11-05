@@ -1,1 +1,12 @@
-
+[
+  {"name": "Perpustakaan Pusat UGM", "category": "Perpustakaan", "address": "Bulaksumur, Sleman, DIY", "latitude": -7.7677, "longitude": 110.3745},
+  {"name": "Kopi Lembah UGM", "category": "Kafe", "address": "Area Lembah UGM, Sleman, DIY", "latitude": -7.7701, "longitude": 110.3790},
+  {"name": "Eduatoria Co-Work", "category": "Co-working Space", "address": "Sekitar Jl. Kaliurang, Sleman, DIY", "latitude": -7.7560, "longitude": 110.3810},
+  {"name": "Warkop 24 Jam X", "category": "Warung Kopi", "address": "Sekitar Jl. Colombo, Sleman, DIY", "latitude": -7.7725, "longitude": 110.3870},
+  {"name": "Grha Sabha Pramana UGM", "category": "Ruang Publik Kampus", "address": "Bulaksumur, Sleman, DIY", "latitude": -7.7700, "longitude": 110.3735},
+  {"name": "Taman Pintar Yogyakarta", "category": "Ruang Publik", "address": "Jl. Panembahan Senopati, Yogyakarta", "latitude": -7.8005, "longitude": 110.3676},
+  {"name": "Stasiun Tugu Yogyakarta", "category": "Stasiun", "address": "Jl. Pangeran Mangkubumi, Yogyakarta", "latitude": -7.7892, "longitude": 110.3633},
+  {"name": "Malioboro Mall", "category": "Mall", "address": "Jl. Malioboro, Yogyakarta", "latitude": -7.7916, "longitude": 110.3656},
+  {"name": "Jogja City Mall", "category": "Mall", "address": "Jl. Magelang, Sleman, DIY", "latitude": -7.7523, "longitude": 110.3597},
+  {"name": "Perpustakaan Kota Yogyakarta", "category": "Perpustakaan", "address": "Jl. Suroto, Yogyakarta", "latitude": -7.7843, "longitude": 110.3770}
+]
