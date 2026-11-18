@@ -192,7 +192,7 @@ class AIAdvisor:
 # --- AREA UJI COBA ---
 if __name__ == "__main__":
     
-    AI_API_KEY = "AQ.Ab8RN6LMFCV5SGrgjcUr8ChNgQD_2qK7hepJvZtOWCqfWmWosA"
+    AI_API_KEY = os.getenv("GEMINI_API_KEY", "")
     advisor = AIAdvisor(api_key=AI_API_KEY)
     
     # 1. Simulasi data dari Azka (Network Engineer)
